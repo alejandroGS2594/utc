@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Pagina para Datos</title>
+    <h3>Formulario UTC</h3>
+<body>
+<label>Nombre: </label>
+<input type="text" name="nombre" placeholder="Dato 1">
+<label>Correo electronico: </label>
+<input type="text" name="email" placeholder="Dato 2">
+<label>Apellido: </label>
+<input type="text" name="apellido" placeholder="Dato 3">
+</body>
+</html>
